@@ -1,0 +1,9 @@
+[submodule "Deliverables"]
+	path = Deliverables
+	url = https://github.com/UNITN-IdS-2022-T11/Deliverables
+[submodule "CodeBase"]
+	path = CodeBase
+	url = https://github.com/UNITN-IdS-2022-T11/CodeBase
+[submodule "Documents"]
+	path = Documents
+	url = https://github.com/UNITN-IdS-2022-T11/Documents
